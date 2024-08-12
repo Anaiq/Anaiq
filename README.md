@@ -1,7 +1,7 @@
 
 ## Hello World! My Name is Qiana (key-AH-nuh). Welcome to my Github👋🏿
 - 🌱 I’m currently learning OOP in Python, studying DSA, and improving my ReactJS and React Native skills
-- 📫 How to reach me: LinkedIn
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/qianapartee/).
 - 😄 Pronouns: She/Her
   
 | 🧰 Tools and Tech stack | |
