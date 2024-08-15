@@ -17,10 +17,13 @@
 
 ## ⚡ Fun facts: 
 <p align="center">
-<img width="180" alt="emoji-of-crutches" src="https://github.com/user-attachments/assets/bf6900c0-c677-44bf-b2d3-f8ecbde6ef6b">  <img width="181" alt="emoji-of-treble-clef" src="https://github.com/user-attachments/assets/d3fabb3e-690e-40fe-b838-43dd8f0efeda"> <img width="178" alt="emoji-of-couch-and-lamp"  src="https://github.com/user-attachments/assets/b42a4a95-01d0-4deb-9381-f930925b94b2"> <img width="177" alt="emoji-of-books" src="https://github.com/user-attachments/assets/e3ea0f97-ce7e-41ac-8ee2-fac8cf5b8678"> <br/>
+<img width="187" alt="Google-icon-of-skeleton" src="https://github.com/user-attachments/assets/860d10a3-0416-451d-aebf-be193fa2ec65">  <img width="188" alt="Google-icon-of-music-note" src="https://github.com/user-attachments/assets/e713518c-accf-4e07-93f2-afe246d37b5f"> <img width="183" alt="Google-icon-of-tools" src="https://github.com/user-attachments/assets/bcf64b15-01e4-42ab-a3a5-b63566d94faa"> <img width="182" alt="Google-icon-of-puzzle-piece" src="https://github.com/user-attachments/assets/e18bb1ef-85f2-426f-a5ad-ed5bbea97ca6"> <br/>
 I used to be a Physical Therapist and Athletic trainer. I played piccolo, flute, alto flute, and bari-sax. I enjoy furniture restoration and home DYI videos. I love solving Logic puzzles (Penny Press books are my go-to travel companion!) and reading about personal finance.
 
 </p>
+(credit: Google icons via Apache License 2.0)
+
+
 
 
 
