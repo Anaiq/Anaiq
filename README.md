@@ -18,7 +18,7 @@
 ## ⚡ Fun facts: 
 <p align="center">
 <img width="187" alt="Google-icon-of-skeleton" src="https://github.com/user-attachments/assets/860d10a3-0416-451d-aebf-be193fa2ec65">  <img width="188" alt="Google-icon-of-music-note" src="https://github.com/user-attachments/assets/e713518c-accf-4e07-93f2-afe246d37b5f"> <img width="183" alt="Google-icon-of-tools" src="https://github.com/user-attachments/assets/bcf64b15-01e4-42ab-a3a5-b63566d94faa"> <img width="182" alt="Google-icon-of-puzzle-piece" src="https://github.com/user-attachments/assets/e18bb1ef-85f2-426f-a5ad-ed5bbea97ca6"> <br/>
-I used to be a Physical Therapist and Athletic trainer. I played piccolo, flute, alto flute, and bari-sax. I enjoy furniture restoration & home DYI videos. I love solving logic puzzles, (Penny Press is my go-to travel companion!), & reading about personal finance.
+I used to be a Physical Therapist and Athletic trainer. I played piccolo, flute, alto flute, and bari-sax. I enjoy furniture restoration & home DYI videos. I love solving logic puzzles, Penny Press is my go-to travel companion!, & reading about personal finance.
 
 </p>
 (credit: Google icons via Apache License 2.0)
