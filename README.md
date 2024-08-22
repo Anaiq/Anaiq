@@ -15,7 +15,7 @@ I have experience in Python, JavaScript/TypeScript, React, web and iOS/Android d
 | DevOps: | CI/CD - SEED (web)/Bitrise (mobile) | 
 | Analytics: | Mixpanel |
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/qianapartee/) or [GMail](qiana.partee@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/qianapartee/)
 
 ## ⚡ Fun facts: 
 <p align="center">
