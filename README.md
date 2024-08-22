@@ -21,7 +21,9 @@ I have experience in Python, JavaScript/TypeScript, React, web and iOS/Android d
 <br>
 <br>
 <h3> 💻 Project(s):</h3><br>
+
 [ESG Invested](https://github.com/Anaiq/back-end-esg-invested)
+
 <br>
 <br>
 <h3>⚡ Fun facts: </h3>
