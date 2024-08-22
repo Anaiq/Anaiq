@@ -1,8 +1,9 @@
 
-## Hello World! My Name is Qiana (key-AH-nuh). Welcome to my Github👋🏿
-- 🌱 I’m currently learning OOP in Python, studying DSA, and improving my ReactJS and React Native skills
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/qianapartee/).
-- 😄 Pronouns: She/Her
+## Hello World! My Name is Qiana (key-AH-nuh). Welcome to my Github.
+
+👋🏿 As a kid, I was always a ‘tinkerer.’ When toys or appliances were broken, I loved to take them apart and see if I could fix them. My curiosity for how things are built, led me to pursue a career in Software Engineering.  I want to build software that has a positive impact, and makes our lives more efficient, creative, active and enjoyable!
+
+I have experience in Python, JavaScript/TypeScript, React, web and iOS/Android development, building APIs, managing databases (Postgres, DynamoDB), and utilizing AWS cloud services.
   
 | 🧰 Tools and Tech stack | |
 |-----|---------------|
@@ -14,14 +15,15 @@
 | DevOps: | CI/CD - SEED (web)/Bitrise (mobile) | 
 | Analytics: | Mixpanel |
 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/qianapartee/) or [GMail](qiana.partee@gmail.com)
 
 ## ⚡ Fun facts: 
 <p align="center">
-<img width="187" alt="Google-icon-of-skeleton" src="https://github.com/user-attachments/assets/860d10a3-0416-451d-aebf-be193fa2ec65">  <img width="188" alt="Google-icon-of-music-note" src="https://github.com/user-attachments/assets/e713518c-accf-4e07-93f2-afe246d37b5f"> <img width="183" alt="Google-icon-of-tools" src="https://github.com/user-attachments/assets/bcf64b15-01e4-42ab-a3a5-b63566d94faa"> <img width="182" alt="Google-icon-of-puzzle-piece" src="https://github.com/user-attachments/assets/e18bb1ef-85f2-426f-a5ad-ed5bbea97ca6"> <br/>
-I used to be a Physical Therapist and Athletic trainer. I played piccolo, flute, alto flute, and bari-sax. I enjoy furniture restoration & home DYI videos. I love solving logic puzzles, Penny Press is my go-to travel companion!, & reading about personal finance.
-
+<img width="187" alt="Google-icon-of-skeleton" src="https://github.com/user-attachments/assets/860d10a3-0416-451d-aebf-be193fa2ec65">  <img width="183" alt="Google-icon-of-tools" src="https://github.com/user-attachments/assets/bcf64b15-01e4-42ab-a3a5-b63566d94faa"> <img width="182" alt="Google-icon-of-puzzle-piece" src="https://github.com/user-attachments/assets/e18bb1ef-85f2-426f-a5ad-ed5bbea97ca6"> <br/
 </p>
-(credit: Google icons via Apache License 2.0)
+<p>I used to be a Physical Therapist and Athletic trainer. I enjoy furniture restoration & home DYI videos. I love solving logic puzzles, Penny Press is my go-to travel companion!, & reading about personal finance.</p>
+
+<p>(credit: Google icons via Apache License 2.0)</p>
 
 
 
