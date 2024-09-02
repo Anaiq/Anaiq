@@ -2,7 +2,7 @@
 <h1 align="center">Hello World! My Name is Qiana (key-AH-nuh).</h1>
 <h1 align="center">Welcome to my Github.</h1>
 
-👋🏿 As a kid, I was always a ‘tinkerer.’ When toys or appliances were broken, I loved to take them apart and see if I could fix them. My curiosity for how things are built, led me to pursue a career in Software Engineering.  I want to build software that has a positive impact, and makes our lives more efficient, creative, active and enjoyable! 
+👋🏿 My curiosity for how things are built, led me to pursue a career in Software Engineering.  I want to build software that has a positive impact, and makes our lives more efficient, creative, active and enjoyable! 
 
 I have experience in Python, JavaScript/TypeScript, React, web and iOS/Android development, building APIs, managing databases (Postgres, DynamoDB), and utilizing AWS cloud services.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/qianapartee/)
