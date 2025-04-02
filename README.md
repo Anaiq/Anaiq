@@ -14,7 +14,7 @@ I have experience in Python, JavaScript/TypeScript, React, web and cross-platfor
 | Languages and Frameworks:    | Python, TypeScript/JavaScript, React/React Native - iOS/Android development, HTML/CSS, SQL, C++ and Java fundamentals |
 | API and DBs:|  Rest/GraphQL APIs, Relational database - Postgres, noSQL database - DynamoDB             |
 | Testing: |   Waldo, Pytest, Jest (Introduction), Playwright (Introduction) |
-| Source code version control and Issue Tracking: | Git, JIRA |
+| Source code version control and Issue Tracking: | Git, JIRA , Linear|
 | AWS Cloud Services: | Exposure to AWS Lambda, CloudWatch, API Gateway |
 | DevOps: | CI/CD - SEED (web)/Bitrise (mobile) | 
 | Analytics: | Mixpanel |
@@ -27,9 +27,6 @@ I have experience in Python, JavaScript/TypeScript, React, web and cross-platfor
 <br>
 <br>
 <h3>⚡ Fun facts: </h3>
-<p align="center">
-<img width="187" alt="Google-icon-of-skeleton" src="https://github.com/user-attachments/assets/860d10a3-0416-451d-aebf-be193fa2ec65">  <img width="183" alt="Google-icon-of-tools" src="https://github.com/user-attachments/assets/bcf64b15-01e4-42ab-a3a5-b63566d94faa"> <img width="182" alt="Google-icon-of-puzzle-piece" src="https://github.com/user-attachments/assets/e18bb1ef-85f2-426f-a5ad-ed5bbea97ca6"> <br/
-</p>
 <p>I used to be a Physical Therapist and Athletic trainer. I enjoy furniture restoration & home DYI videos. I love solving logic puzzles (Penny Press is my go-to travel companion) and reading about personal finance.</p>
 
 <p>(credit: Google icons via Apache License 2.0)</p>
