@@ -3,13 +3,10 @@
 <h1 align="center">Welcome to my Github.</h1>
 
 👋🏿 I'm a bootcamp graduate/current BS in Computer Science student. My curiosity for how things are built, led me to pursue a career in Software Engineering.  I want to build software that has a positive impact on our communities, and makes our lives more creative, active, safe, and enjoyable! 
-
-I have experience in Python, JavaScript/TypeScript, React, web and cross-platform iOS/Android development.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/qianapartee/)
 <br>
 <br>
 
-| 🧰 Tools and Tech stack | |
+| 🧰 Tools| Tech stack  |
 |-----|---------------|
 | Languages and Frameworks:    | Python, TypeScript/JavaScript, React/React Native - iOS/Android development, HTML/CSS, SQL, C++ and Java fundamentals |
 | API and DBs:|  Rest/GraphQL APIs, Relational database - Postgres, noSQL database - DynamoDB             |
@@ -20,14 +17,21 @@ I have experience in Python, JavaScript/TypeScript, React, web and cross-platfor
 | Analytics: | Mixpanel |
 <br>
 <br>
-<h3> 💻 Project(s):</h3><br>
 
-[ESG Invested](https://github.com/Anaiq/back-end-esg-invested)
+ ### 
+ 
+
+| 💻 Project(s) | |
+|-----|---------------|
+| [ESG Invested - BackEnd: Python/Flask](https://github.com/Anaiq/back-end-esg-invested)  |  [ESG Invested - FrontEnd: TS/React/BootStrap](https://github.com/Anaiq/front-end-esg-invested) |
+
+
+
 
 <br>
 <br>
 <h3>⚡ Fun facts: </h3>
-<p>I used to be a Physical Therapist and Athletic trainer. I enjoy furniture restoration & home DYI videos. I love solving logic puzzles (Penny Press is my go-to travel companion) and reading about personal finance.</p>
+<p> I enjoy watching furniture restoration & home DYI videos, solving logic puzzles (Penny Press is my go-to travel companion), and reading about personal finance.</p>
 
 <p>(credit: Google icons via Apache License 2.0)</p>
 
