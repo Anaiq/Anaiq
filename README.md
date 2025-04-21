@@ -22,9 +22,9 @@
  ### 
  
 
-| 💻 Project(s) | |
-|-----|---------------|
-| [ESG Invested - BackEnd: Python/Flask](https://github.com/Anaiq/back-end-esg-invested)  |  [ESG Invested - FrontEnd: TS/React/BootStrap](https://github.com/Anaiq/front-end-esg-invested) |
+| 💻 Project(s) | | | 
+|-----|---------------| ------------ |
+| [CopyCat - Swift](https://github.com/Anaiq/CopyCat)  | [ESG Invested - BackEnd: Python/Flask](https://github.com/Anaiq/back-end-esg-invested)  |  [ESG Invested - FrontEnd: TS/React/BootStrap](https://github.com/Anaiq/front-end-esg-invested) |
 
 
 
