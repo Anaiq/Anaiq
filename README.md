@@ -8,14 +8,14 @@
 
 | 🧰 Tools| Tech stack  |
 |-----|---------------|
-| Languages and Frameworks:    | Python/Flask, TypeScript/JavaScript, React/React Native - iOS/Android development, HTML/CSS, SQL, Java/SpringBoot fundamentals |
+| Languages and Frameworks:    | Python/Flask, TypeScript/JavaScript, React/React Native - iOS/Android development, HTML/CSS, SQL, Java/SpringBoot fundamentals, Swift fundamentals |
 | IDEs: | Visual Studio Code, Xcode, IntelliJ | 
-| API and DBs:|  Rest/GraphQL APIs, Relational database - Postgres, noSQL database - DynamoDB             |
-| Testing: |   Waldo, Pytest, Jest (Introduction), Playwright (Introduction) |
-| Source code version control and Issue Tracking: | Git, Github, GitLab (intro), Linear|
+| API and DBs:|  RESTful APIs, Relational database - Postgres, noSQL database - DynamoDB             |
+| Testing: |   Pytest, Waldo |
+| Source code version control and Issue Tracking: | Git, Github, GitLab (intro), Jira, Linear|
 | AWS Cloud Services: | Exposure to AWS Lambda, CloudWatch, API Gateway |
 | DevOps: | CI/CD - SEED (web)/Bitrise (mobile) | 
-| Analytics: | Mixpanel |
+| Analytics: | introduced to Mixpanel, Sentry |
 <br>
 <br>
 
