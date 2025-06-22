@@ -10,12 +10,12 @@
 |-----|---------------|
 | Languages and Frameworks:    | Python/Flask, TypeScript/JavaScript, React/React Native - iOS/Android development, HTML/CSS, SQL, Java/SpringBoot fundamentals, Swift fundamentals |
 | IDEs: | Visual Studio Code, Xcode, IntelliJ | 
-| API and DBs:|  RESTful APIs, Relational database - Postgres, noSQL database - DynamoDB             |
+| API and DBs:|  RESTful APIs, Relational database - Postgres, noSQL database - learning GraphQL, DynamoDB   |
 | Testing: |   Pytest, Waldo |
 | Source code version control and Issue Tracking: | Git, Github, GitLab (intro), Jira, Linear|
 | AWS Cloud Services: | Exposure to AWS Lambda, CloudWatch, API Gateway |
-| DevOps: | CI/CD - SEED (web)/Bitrise (mobile) | 
-| Analytics: | introduced to Mixpanel, Sentry |
+| DevOps: | CI/CD - SEED, CircleCI (web)/Bitrise (mobile) | 
+| Analytics: | introduced to Mixpanel |
 <br>
 <br>
 
