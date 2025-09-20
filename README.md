@@ -11,11 +11,11 @@
 | Languages and Frameworks:    | Python/Flask, TypeScript/JavaScript, React/React Native - iOS/Android development, HTML/CSS, SQL, Java/SpringBoot fundamentals, Swift fundamentals |
 | IDEs: | Visual Studio Code, Xcode, IntelliJ | 
 | API and DBs:|  RESTful APIs, Relational database - Postgres, noSQL database - learning GraphQL, DynamoDB   |
-| Testing: |   Pytest, Waldo |
+| Testing: |   Pytest, Jest, Waldo |
 | Source code version control and Issue Tracking: | Git, Github, GitLab (intro), Jira, Linear|
 | AWS Cloud Services: | Exposure to AWS Lambda, CloudWatch, API Gateway |
 | DevOps: | CI/CD - SEED, CircleCI (web)/Bitrise (mobile) | 
-| Analytics: | introduced to Mixpanel |
+| Analytics: | introduced to Mixpanel, Twilio Segment|
 <br>
 <br>
 
@@ -32,7 +32,7 @@
 <br>
 <br>
 <h3>⚡ Fun facts: </h3>
-<p> I enjoy watching furniture restoration & home DYI videos, solving logic puzzles (Penny Press is my go-to travel companion), and reading about personal finance.</p>
+<p> I enjoy watching home DYI videos, solving logic puzzles (Penny Press is my go-to), and reading about personal finance.</p>
 
 <p>(credit: Google icons via Apache License 2.0)</p>
 
