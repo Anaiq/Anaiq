@@ -22,11 +22,9 @@
  ### 
  
 
-| 💻 Project(s) | | | 
-|-----|---------------| ------------ |
-| [CopyCat - Swift](https://github.com/Anaiq/CopyCat)  | [ESG Invested - BackEnd: Python/Flask](https://github.com/Anaiq/back-end-esg-invested)  |  [ESG Invested - FrontEnd: TS/React/BootStrap](https://github.com/Anaiq/front-end-esg-invested) |
-
-
+| 💻 Project(s) | | | |
+--------------- |  ----------|---------------| ------------ |
+| [Logic Puzzle App](https://github.com/Web103QPRBKA/CPWeb103FinalProject2025) | [CopyCat - Swift](https://github.com/Anaiq/CopyCat)  | [ESG Invested - BackEnd: Python/Flask](https://github.com/Anaiq/back-end-esg-invested)  |  [ESG Invested - FrontEnd: TS/React/BootStrap](https://github.com/Anaiq/front-end-esg-invested) |
 
 
 <br>
